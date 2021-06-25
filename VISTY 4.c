@@ -7,7 +7,7 @@ int main()
 	printf("Enter the values of A and B\n");
 	scanf("%d%d",&a,&b);
 	
-    a+=b;
+        a+=b;
 	printf("a+b= %d\n",a);
 	a-=b;
 	printf("a-b= %d\n",a);
